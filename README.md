@@ -2,7 +2,7 @@
 歴史の授業とるやつ
 コマンドラインで授業動画のパスを指定
 例
-python3 reekisi.py sample.mp4
+python3 rekisi.py sample.mp4
 
 動画があるディレクトリに新たにディレクトリが作られその中に画像化したものがはいる
 
